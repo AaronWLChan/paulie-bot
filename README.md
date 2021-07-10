@@ -1,5 +1,6 @@
 # Paulie Bot
 A Reddit Bot based on Paulie 'Walnuts' Gualtieri from The Sopranos.
+
 ![](https://media2.giphy.com/media/4UHVCPKYeWHYY/giphy.gif?cid=ecf05e47hhuj0e3gl486sxv9rk7rrki48jcbt03g0nb0gojk&rid=giphy.gif&ct=g)
 
 ## Prerequisites
